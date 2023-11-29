@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\bin\Debug\net6.0\CommandRestaurant.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\bin\Debug\net6.0\CommandRestaurant.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\bin\Debug\net6.0\CommandRestaurant.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\bin\Debug\net6.0\CommandRestaurant.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\bin\Debug\net6.0\CommandRestaurant.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\CommandRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\CommandRestaurant.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\CommandRestaurant.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\CommandRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\CommandRestaurant.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\refint\CommandRestaurant.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\CommandRestaurant.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\CommandRestaurant.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Command\CommandRestaurant\obj\Debug\net6.0\ref\CommandRestaurant.dll
